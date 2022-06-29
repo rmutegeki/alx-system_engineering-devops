@@ -1,6 +1,6 @@
 # Shell, permissions
 
-Project done during the **ALX Fullstack Software Engineering Program**. It aims to learn about man pages, permissions (owner, group and other) of files and directories in **Shell**.
+Project done during the **ALX Fullstack Software Engineering Program**. It aims to learn about man pages, permissions (owner, group and other) of files and directories in the **Shell**.
 For the Star Wars exercise, I used https://itsfoss.com/star-wars-linux/ as a reference.
 
 ## Technologies
