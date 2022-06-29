@@ -1,6 +1,6 @@
-# Shell, I/O Redirections and filters
+# Shell, Basics
 
-Project done during the **ALX Fullstack Software Engineering Program**. This project aims at learning how to handle standard input and output and how to combine commands and filters with redirections in the **Shell**.
+Project done during the **ALX Fullstack Software Engineering Program**. This project aims at learning basic commands, navigation, files and directories in the **Shell**.
 
 ## Technologies
 * Scripts written in Bash 5.0.17(1)
@@ -18,16 +18,16 @@ All of the following files are scripts, except `school.mgc`:
 | `4-listmorefiles` | Displays, in the long format, current directory contents, including hidden files |
 | `5-listfilesdigitonly` | Displays current directory contents with user and group IDs |
 | `6-firstdirectory` | Creates a directory named `school` in the `/tmp/` directory |
-| `7-movethatfile` | Moves the file `betty` from `/tmp/` to `/tmp/school` |
-| `8-firstdelete` | Deletes the file `betty` |
-| `9-firstdirdeletion` | Deletes the directory `school` that is in the `/tmp` directory |
+| `7-movethatfile` | Moves the file `betty` from `/tmp/` to `/tmp/my_first_directory` |
+| `8-firstdelete` | Deletes the file `betty` which is in `/tmp/my_first_directory` |
+| `9-firstdirdeletion` | Deletes the directory `my_first_directory` that is in the `/tmp` directory |
 | `10-back` | Changes the working directory to the previous one |
 | `11-lists` | Lists all files in the current directory and its parent directory and the `/boot` directory |
 | `12-file_type` | Prints the type of the file named `iamafile` that is in the `/tmp` directory |
 | `13-symbolic_link` | Creates a symbolic link to `/bin/ls`, named `__ls__` |
 | `14-copy_html` | Copies all the HTML files from the current working directory to the parent directory, but only copies files that did not exist in the parent directory |
-| `15-lets_move` | Moves all files beginning with an uppercase letter to the directory `/tmp/u` |
-| `16-clean_emacs` | Deletes all files in the current working directory that end with the character `~` |
-| `17-tree` | Creates the directories `welcome/`, `welcome/to/` and `welcome/to/school` in the current directory |
-| `18-commas` | Lists all the files and directories of the current directory, separated by commas (`,`) |
+| `100-lets_move` | Moves all files beginning with an uppercase letter to the directory `/tmp/u` |
+| `101-clean_emacs` | Deletes all files in the current working directory that end with the character `~` |
+| `102-tree` | Creates the directories `welcome/`, `welcome/to/` and `welcome/to/school` in the current directory |
+| `103-commas` | Lists all the files and directories of the current directory, separated by commas (`,`) |
 | `school.mgc` | Magic file that can be used with the command `file` to detect `School` data files. `School` data files always contain the string `SCHOOL` at offset 0 |
